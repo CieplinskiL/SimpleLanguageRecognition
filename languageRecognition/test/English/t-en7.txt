@@ -1,0 +1,16 @@
+A new feature is being introduced to iPhones and iPads this week which is causing a huge rift between Apple and Facebook.
+
+It will allow device users to say no to having their data collected by apps.
+
+Facebook has been put in a spin by this because user data - and the advertising it can generate - is what makes the company so profitable. This update could deal a severe blow to its business model.
+What's it about?
+
+The row focuses on a unique device identifier on every iPhone and iPad, called the IDFA (identifier for advertisers). Companies which sell mobile ads, including Facebook, use this IDFA to both target ads and estimate their effectiveness.
+
+The IDFA can also be paired with other tech, such as Facebook's tracking pixels or tracking cookies, which follow users around the web, to learn even more about you.
+
+But when iOS 14.5 comes out this week, the new App Tracking Transparency feature will be on by default. It will force app developers to explicitly ask for permission from users to use this IDFA.
+
+Surveys suggest, and Facebook acknowledges, that up to 80% will say no.
+
+If you want to know how much Facebook already tracks you on other sites and apps, there's a helpful tool on Facebook. 

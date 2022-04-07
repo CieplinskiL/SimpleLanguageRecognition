@@ -1,0 +1,12 @@
+The strongest tools in Minecraft are now made of Netherite, an upgrade from Diamond gear.
+
+As expected, Netherite items have higher durability than Diamond items, but they can also float in lava and they don’t burn, which is a huge plus.
+
+Here’s how to upgrade your Diamond items to Netherite items:
+
+    Get a Smithing Table, either by crafting one using Iron Ingots and planks or by stealing one from a village.
+    Combine your Diamond item with a Netherite Ingot using the Smithing Table.
+
+If you haven’t gotten a Netherite Ingot, that’s a bit tricky. You’ll need to go into the Nether and mine to find Ancient Debris. From there, you’ll have to smelt the Ancient Debris into a Furnace to get Netherite Scrap. You’ll need to combine four Netherite Scraps and four Gold Ingots in order to get one Netherite Ingot.
+
+Since you’re upgrading your tools rather than making new ones from scratch, all your enhancements on your Diamond items will still be there once you upgrade to Netherite.

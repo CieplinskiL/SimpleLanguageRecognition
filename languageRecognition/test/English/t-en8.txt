@@ -1,0 +1,27 @@
+Facebook has warned that the app update could cut the money earned through its ad network by half, hitting small businesses the hardest.
+
+And it argues that sharing data with advertisers is key to giving users "better experiences".
+
+It also says that Apple is being hypocritical, because it will force businesses to turn to subscriptions and other in-app payments for revenue, from which Apple takes a cut.
+
+As it often does when under pressure, Facebook has gone on a PR offensive. It took out adverts in national newspapers in December, featuring small businesses talking about how they only survived the pandemic thanks to targeted ads.
+
+In its latest blog, Facebook appeared to accept the changes and promised "new advertiser experiences and measurement protocols". It admitted that the ways digital advertisers collect and use information needed to "evolve" to one that will rely on "less data".
+Why should I care?
+
+In recent years, governments and regulators have become increasingly concerned about just how big and complex the ecosystem around websites, apps and social media companies has become.
+
+Here are some points to consider:
+
+    the average app includes six third-party trackers that are there solely to collect and share your online data, according to a report commissioned by Apple
+    some apps request access to more data than is required to provide their service. TikTok, for instance, is being sued by England's former children's commissioner for collecting large amounts of children's data
+    the UK's Information Commissioner's Office is investigating real-time bidding - the daily automatic placement of billions of targeted online adverts on webpages and apps
+    any one data broker is estimated to have data on up to 700 million consumers, according to research consultants Cracked Labs
+
+What does the ad industry say?
+
+Most think that change is coming, even without the iOS update.
+
+Technology consultant Max Kalmykov wrote in Medium that advertisers had to "prepare for the next, privacy-focused era of digital advertising".
+
+This may include contextual ads, such as fashion-related ads appearing only on websites about fashion rather than randomly following people across the web.
